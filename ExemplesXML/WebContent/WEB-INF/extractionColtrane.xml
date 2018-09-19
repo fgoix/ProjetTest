@@ -1,0 +1,2886 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Campagne idSource="ECMOSS" millesime="2018" idPeriode="A00">
+    <Traitement>
+        <Type>ExtractionReponses</Type>
+    </Traitement>
+    <Questionnaires>
+        <Questionnaire idModele="v1">
+            <InformationsGenerales>
+                <UniteEnquetee>
+                    <Identifiant>38448199000040</Identifiant>
+                </UniteEnquetee>
+            </InformationsGenerales>
+            <InformationsPersonnalisees>
+                <Variable idVariable="COMMENT_UE">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="CESSATION">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="NOUV_SIRET">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_INTER">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"></Valeur>
+                </Variable>
+                <Variable idVariable="E_PART">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"></Valeur>
+                </Variable>
+                <Variable idVariable="E_PEE">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"></Valeur>
+                </Variable>
+                <Variable idVariable="E_ACT">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"></Valeur>
+                </Variable>
+                <Variable idVariable="E_RETR">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"></Valeur>
+                </Variable>
+                <Variable idVariable="E_ASS">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"></Valeur>
+                </Variable>
+                <Variable idVariable="E_BRA_GR">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"></Valeur>
+                </Variable>
+                <Variable idVariable="E_BRA_EV">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"></Valeur>
+                </Variable>
+                <Variable idVariable="E_BRA_PI">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_BRA_PC">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_BRA_ES">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_BRA_AS">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_BRA_PR">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_BRA_EG">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_GRO_GR">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_GRO_EV">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_GRO_PI">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_GRO_PC">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_GRO_ES">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_GRO_AS">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_GRO_PR">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_GRO_EG">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_ENT_GR">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_ENT_EV">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_ENT_PI">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_ENT_PC">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_ENT_ES">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_ENT_AS">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_ENT_PR">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_ENT_EG">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_ETA_GR">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_ETA_EV">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_ETA_PI">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_ETA_PC">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_ETA_ES">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_ETA_AS">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_ETA_PR">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_ETA_EG">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_AUT_GR">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_AUT_EV">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_AUT_PI">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_AUT_PC">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_AUT_ES">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_AUT_AS">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_AUT_PR">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_AUT_EG">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_ANC_GR">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_ANC_EV">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_ANC_PI">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_ANC_PC">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_ANC_ES">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_ANC_AS">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_ANC_PR">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_ANC_EG">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_C_RF">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_C_CS">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_C_PI">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_C_PC">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_C_CO">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_C_DI">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_C_RB">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_C_MT">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_C_IC">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_C_IA">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_C_RS">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_C_FP">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_C_PR">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_C_NSP">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_NC_RF">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_NC_CS">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_NC_PI">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_NC_PC">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_NC_CO">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_NC_DI">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_NC_RB">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_NC_MT">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_NC_IC">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_NC_IA">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_NC_RS">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_NC_FP">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_NC_PR">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_NC_NSP">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_ETA_DS">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"></Valeur>
+                </Variable>
+                <Variable idVariable="E_ENT_DS">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"></Valeur>
+                </Variable>
+                <Variable idVariable="E_DP">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"></Valeur>
+                </Variable>
+                <Variable idVariable="E_CE">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"></Valeur>
+                </Variable>
+                <Variable idVariable="E_CHSCT">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"></Valeur>
+                </Variable>
+                <Variable idVariable="E_INST">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"></Valeur>
+                </Variable>
+                <Groupe idGroupe="TABLEAU_SALARIES">
+                    <Groupe idGroupe="01" typeGroupe="TABLEAU_SALARIES">
+                        <Variable idVariable="SIRET_SAL">
+                            <Valeur type="ancienne">38448199000040</Valeur>
+                            <Valeur type="nouvelle">38448199000040</Valeur>
+                        </Variable>
+                        <Variable idVariable="NUM_ORDRE_SAL_TAB">
+                            <Valeur type="ancienne">01</Valeur>
+                            <Valeur type="nouvelle">01</Valeur>
+                        </Variable>
+                        <Variable idVariable="NOM_COMPLET_SAL_TAB">
+                            <Valeur type="ancienne">MONIQUE BENONY épouse GELE</Valeur>
+                            <Valeur type="nouvelle">MONIQUE BENONY épouse GELE</Valeur>
+                        </Variable>
+                        <Variable idVariable="NUM_SECU_TAB">
+                            <Valeur type="ancienne">26710</Valeur>
+                            <Valeur type="nouvelle">26710</Valeur>
+                        </Variable>
+                        <Variable idVariable="LIB_CC_PERSO_TAB">
+                            <Valeur type="ancienne">HOSPITALISATION PRIVEE</Valeur>
+                            <Valeur type="nouvelle">HOSPITALISATION PRIVEE</Valeur>
+                        </Variable>
+                        <Variable idVariable="COD_CC_PERSO_TAB">
+                            <Valeur type="ancienne">2264</Valeur>
+                            <Valeur type="nouvelle">2264</Valeur>
+                        </Variable>
+                    </Groupe>
+                    <Groupe idGroupe="02" typeGroupe="TABLEAU_SALARIES">
+                        <Variable idVariable="SIRET_SAL">
+                            <Valeur type="ancienne">38448199000040</Valeur>
+                            <Valeur type="nouvelle">38448199000040</Valeur>
+                        </Variable>
+                        <Variable idVariable="NUM_ORDRE_SAL_TAB">
+                            <Valeur type="ancienne">02</Valeur>
+                            <Valeur type="nouvelle">02</Valeur>
+                        </Variable>
+                        <Variable idVariable="NOM_COMPLET_SAL_TAB">
+                            <Valeur type="ancienne">AUDE BLION épouse BRITSCHGY</Valeur>
+                            <Valeur type="nouvelle">AUDE BLION épouse BRITSCHGY</Valeur>
+                        </Variable>
+                        <Variable idVariable="NUM_SECU_TAB">
+                            <Valeur type="ancienne">28211</Valeur>
+                            <Valeur type="nouvelle">28211</Valeur>
+                        </Variable>
+                        <Variable idVariable="LIB_CC_PERSO_TAB">
+                            <Valeur type="ancienne">HOSPITALISATION PRIVEE</Valeur>
+                            <Valeur type="nouvelle">HOSPITALISATION PRIVEE</Valeur>
+                        </Variable>
+                        <Variable idVariable="COD_CC_PERSO_TAB">
+                            <Valeur type="ancienne">2264</Valeur>
+                            <Valeur type="nouvelle">2264</Valeur>
+                        </Variable>
+                    </Groupe>
+                    <Groupe idGroupe="03" typeGroupe="TABLEAU_SALARIES">
+                        <Variable idVariable="SIRET_SAL">
+                            <Valeur type="ancienne">38448199000040</Valeur>
+                            <Valeur type="nouvelle">38448199000040</Valeur>
+                        </Variable>
+                        <Variable idVariable="NUM_ORDRE_SAL_TAB">
+                            <Valeur type="ancienne">03</Valeur>
+                            <Valeur type="nouvelle">03</Valeur>
+                        </Variable>
+                        <Variable idVariable="NOM_COMPLET_SAL_TAB">
+                            <Valeur type="ancienne">OLIVIER STRICH</Valeur>
+                            <Valeur type="nouvelle">OLIVIER STRICH</Valeur>
+                        </Variable>
+                        <Variable idVariable="NUM_SECU_TAB">
+                            <Valeur type="ancienne">17010</Valeur>
+                            <Valeur type="nouvelle">17010</Valeur>
+                        </Variable>
+                        <Variable idVariable="LIB_CC_PERSO_TAB">
+                            <Valeur type="ancienne">HOSPITALISATION PRIVEE</Valeur>
+                            <Valeur type="nouvelle">HOSPITALISATION PRIVEE</Valeur>
+                        </Variable>
+                        <Variable idVariable="COD_CC_PERSO_TAB">
+                            <Valeur type="ancienne">2264</Valeur>
+                            <Valeur type="nouvelle">2264</Valeur>
+                        </Variable>
+                    </Groupe>
+                    <Groupe idGroupe="04" typeGroupe="TABLEAU_SALARIES">
+                        <Variable idVariable="SIRET_SAL">
+                            <Valeur type="ancienne">38448199000040</Valeur>
+                            <Valeur type="nouvelle">38448199000040</Valeur>
+                        </Variable>
+                        <Variable idVariable="NUM_ORDRE_SAL_TAB">
+                            <Valeur type="ancienne">04</Valeur>
+                            <Valeur type="nouvelle">04</Valeur>
+                        </Variable>
+                        <Variable idVariable="NOM_COMPLET_SAL_TAB">
+                            <Valeur type="ancienne">EMILIE ZIRDA</Valeur>
+                            <Valeur type="nouvelle">EMILIE ZIRDA</Valeur>
+                        </Variable>
+                        <Variable idVariable="NUM_SECU_TAB">
+                            <Valeur type="ancienne">28005</Valeur>
+                            <Valeur type="nouvelle">28005</Valeur>
+                        </Variable>
+                        <Variable idVariable="LIB_CC_PERSO_TAB">
+                            <Valeur type="ancienne">HOSPITALISATION PRIVEE</Valeur>
+                            <Valeur type="nouvelle">HOSPITALISATION PRIVEE</Valeur>
+                        </Variable>
+                        <Variable idVariable="COD_CC_PERSO_TAB">
+                            <Valeur type="ancienne">2264</Valeur>
+                            <Valeur type="nouvelle">2264</Valeur>
+                        </Variable>
+                    </Groupe>
+                </Groupe>
+                <Groupe idGroupe="BOUCLE_SALARIE">
+                    <Groupe idGroupe="01" typeGroupe="BOUCLE_SALARIE">
+                        <Variable idVariable="NUM_ORDRE_SALARIE">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">01</Valeur>
+                        </Variable>
+                        <Variable idVariable="NOM_COMPLET_SALARIE">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">MONIQUE BENONY épouse GELE</Valeur>
+                        </Variable>
+                        <Variable idVariable="COD_CC_PERSO">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">2264</Valeur>
+                        </Variable>
+                        <Variable idVariable="COD_CC_PERSO_TAB">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="NUM_SECU">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">26710</Valeur>
+                        </Variable>
+                        <Variable idVariable="LIB_CC_PERSO">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">HOSPITALISATION PRIVEE</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_QUIT_ETB">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="LIB_CC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="COD_CC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_REM">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"></Valeur>
+                        </Variable>
+                        <Variable idVariable="S_REM_SUP">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"></Valeur>
+                        </Variable>
+                        <Variable idVariable="S_TOT_PRIM">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"></Valeur>
+                        </Variable>
+                        <Variable idVariable="S_PR_ANC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"></Valeur>
+                        </Variable>
+                        <Variable idVariable="S_PR_CONT">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_PR_PIND">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_PR_PCOL">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"></Valeur>
+                        </Variable>
+                        <Variable idVariable="S_PR_PREC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_IND_CHO">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_IND_LIC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_IND_RET">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_IND_AUT">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_INTER">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_PART">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_PEE">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_COTIS">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"></Valeur>
+                        </Variable>
+                        <Variable idVariable="S_COTIS_RP">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"></Valeur>
+                        </Variable>
+                        <Variable idVariable="S_MODIF">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"></Valeur>
+                        </Variable>
+                        <Variable idVariable="S_SMIC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"></Valeur>
+                        </Variable>
+                        <Variable idVariable="S_GEN">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_IND">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_INDIC_FJ">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"></Valeur>
+                        </Variable>
+                        <Variable idVariable="S_HREM">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"></Valeur>
+                        </Variable>
+                        <Variable idVariable="S_HREM_SUP">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"></Valeur>
+                        </Variable>
+                        <Variable idVariable="S_FORFAIT">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_JDEB">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_JFIN">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_TP">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"></Valeur>
+                        </Variable>
+                        <Variable idVariable="S_QUOT">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"></Valeur>
+                        </Variable>
+                        <Variable idVariable="S_HSEM">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"></Valeur>
+                        </Variable>
+                        <Variable idVariable="S_JSEM">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"></Valeur>
+                        </Variable>
+                        <Variable idVariable="S_DUR_CONT">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"></Valeur>
+                        </Variable>
+                        <Variable idVariable="S_CONGES">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"></Valeur>
+                        </Variable>
+                        <Variable idVariable="S_FERIES">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"></Valeur>
+                        </Variable>
+                        <Variable idVariable="S_ARRETS">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"></Valeur>
+                        </Variable>
+                        <Variable idVariable="S_MATER">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"></Valeur>
+                        </Variable>
+                        <Variable idVariable="S_ATMP">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"></Valeur>
+                        </Variable>
+                        <Variable idVariable="S_AUTR">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"></Valeur>
+                        </Variable>
+                        <Variable idVariable="S_ARRETS_U">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_MATER_U">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_ATMP_U">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"></Valeur>
+                        </Variable>
+                        <Variable idVariable="S_AUTR_U">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_CET_PRIS">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_CET_VERS">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_JLEG">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_TYP_CONT">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"></Valeur>
+                        </Variable>
+                        <Variable idVariable="S_SUPERV">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"></Valeur>
+                        </Variable>
+                        <Variable idVariable="S_QUALIF">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"></Valeur>
+                        </Variable>
+                        <Variable idVariable="S_ANC_AN">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"></Valeur>
+                        </Variable>
+                        <Variable idVariable="S_ANC_MOIS">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"></Valeur>
+                        </Variable>
+                        <Variable idVariable="S_FP">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"></Valeur>
+                        </Variable>
+                        <Variable idVariable="S_DIPL_AUC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_DIPL_BRE">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_DIPL_CAP">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_DIPL_BAC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_DIPL_BTS">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"></Valeur>
+                        </Variable>
+                        <Variable idVariable="S_DIPL_LIC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_DIPL_MAS">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_DIPL_DOC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                    </Groupe>
+                    <Groupe idGroupe="02" typeGroupe="BOUCLE_SALARIE">
+                        <Variable idVariable="NUM_ORDRE_SALARIE">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">02</Valeur>
+                        </Variable>
+                        <Variable idVariable="NOM_COMPLET_SALARIE">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">AUDE BLION épouse BRITSCHGY</Valeur>
+                        </Variable>
+                        <Variable idVariable="COD_CC_PERSO">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">2264</Valeur>
+                        </Variable>
+                        <Variable idVariable="COD_CC_PERSO_TAB">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="NUM_SECU">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">28211</Valeur>
+                        </Variable>
+                        <Variable idVariable="LIB_CC_PERSO">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">HOSPITALISATION PRIVEE</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_QUIT_ETB">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="LIB_CC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="COD_CC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_REM">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">26930</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_REM_SUP">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_TOT_PRIM">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">4684</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_PR_ANC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">2503</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_PR_CONT">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_PR_PIND">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_PR_PCOL">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">70</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_PR_PREC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_IND_CHO">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_IND_LIC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_IND_RET">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_IND_AUT">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_INTER">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_PART">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_PEE">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_COTIS">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">13186</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_COTIS_RP">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">891</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_MODIF">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">1</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_SMIC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">1</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_GEN">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_IND">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_INDIC_FJ">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">2</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_HREM">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">1820</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_HREM_SUP">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">0</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_FORFAIT">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_JDEB">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_JFIN">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_TP">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">1</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_QUOT">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_HSEM">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">35</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_JSEM">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">3</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_DUR_CONT">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">1820</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_CONGES">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">34</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_FERIES">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">0</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_ARRETS">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">0</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_MATER">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">0</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_ATMP">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">0</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_AUTR">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">0</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_ARRETS_U">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_MATER_U">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_ATMP_U">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_AUTR_U">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_CET_PRIS">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_CET_VERS">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_JLEG">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_TYP_CONT">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">1</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_SUPERV">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">3</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_QUALIF">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">10</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_ANC_AN">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">11</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_ANC_MOIS">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">10</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_FP">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">9</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_DIPL_AUC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_DIPL_BRE">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_DIPL_CAP">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_DIPL_BAC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_DIPL_BTS">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">1</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_DIPL_LIC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_DIPL_MAS">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_DIPL_DOC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                    </Groupe>
+                    <Groupe idGroupe="03" typeGroupe="BOUCLE_SALARIE">
+                        <Variable idVariable="NUM_ORDRE_SALARIE">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">03</Valeur>
+                        </Variable>
+                        <Variable idVariable="NOM_COMPLET_SALARIE">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">OLIVIER STRICH</Valeur>
+                        </Variable>
+                        <Variable idVariable="COD_CC_PERSO">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">2264</Valeur>
+                        </Variable>
+                        <Variable idVariable="COD_CC_PERSO_TAB">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="NUM_SECU">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">17010</Valeur>
+                        </Variable>
+                        <Variable idVariable="LIB_CC_PERSO">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">HOSPITALISATION PRIVEE</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_QUIT_ETB">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="LIB_CC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="COD_CC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_REM">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">32673</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_REM_SUP">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_TOT_PRIM">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">7033</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_PR_ANC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">4520</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_PR_CONT">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_PR_PIND">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">2513</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_PR_PCOL">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_PR_PREC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_IND_CHO">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_IND_LIC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_IND_RET">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_IND_AUT">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_INTER">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_PART">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_PEE">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_COTIS">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_COTIS_RP">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_MODIF">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">1</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_SMIC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">1</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_GEN">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_IND">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_INDIC_FJ">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">2</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_HREM">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">728</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_HREM_SUP">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">0</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_FORFAIT">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_JDEB">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_JFIN">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_TP">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">2</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_QUOT">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">40</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_HSEM">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">2.8</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_JSEM">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">2</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_DUR_CONT">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">728</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_CONGES">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">23</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_FERIES">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">0</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_ARRETS">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">0</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_MATER">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">0</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_ATMP">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">0</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_AUTR">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">0</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_ARRETS_U">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_MATER_U">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_ATMP_U">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_AUTR_U">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_CET_PRIS">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_CET_VERS">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_JLEG">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_TYP_CONT">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">1</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_SUPERV">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">2</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_QUALIF">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">7</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_ANC_AN">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">4</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_ANC_MOIS">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_FP">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">9</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_DIPL_AUC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_DIPL_BRE">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_DIPL_CAP">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_DIPL_BAC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_DIPL_BTS">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_DIPL_LIC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_DIPL_MAS">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">1</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_DIPL_DOC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                    </Groupe>
+                    <Groupe idGroupe="04" typeGroupe="BOUCLE_SALARIE">
+                        <Variable idVariable="NUM_ORDRE_SALARIE">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">04</Valeur>
+                        </Variable>
+                        <Variable idVariable="NOM_COMPLET_SALARIE">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">EMILIE ZIRDA</Valeur>
+                        </Variable>
+                        <Variable idVariable="COD_CC_PERSO">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">2264</Valeur>
+                        </Variable>
+                        <Variable idVariable="COD_CC_PERSO_TAB">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="NUM_SECU">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">28005</Valeur>
+                        </Variable>
+                        <Variable idVariable="LIB_CC_PERSO">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">HOSPITALISATION PRIVEE</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_QUIT_ETB">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="LIB_CC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="COD_CC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_REM">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">4686</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_REM_SUP">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">446</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_TOT_PRIM">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">1584</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_PR_ANC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">1100</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_PR_CONT">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_PR_PIND">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_PR_PCOL">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_PR_PREC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_IND_CHO">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_IND_LIC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_IND_RET">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_IND_AUT">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_INTER">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_PART">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_PEE">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_COTIS">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">1675</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_COTIS_RP">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">155</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_MODIF">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">1</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_SMIC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">1</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_GEN">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_IND">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_INDIC_FJ">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">2</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_HREM">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">565</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_HREM_SUP">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">33</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_FORFAIT">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_JDEB">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">2017-10-01</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_JFIN">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">2017-12-31</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_TP">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">1</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_QUOT">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_HSEM">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">35</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_JSEM">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">5</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_DUR_CONT">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">1820</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_CONGES">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">7</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_FERIES">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">0</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_ARRETS">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">75</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_MATER">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">758</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_ATMP">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">0</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_AUTR">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">0</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_ARRETS_U">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">3</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_MATER_U">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">3</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_ATMP_U">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_AUTR_U">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_CET_PRIS">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_CET_VERS">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_JLEG">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_TYP_CONT">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">1</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_SUPERV">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">3</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_QUALIF">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">2</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_ANC_AN">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">7</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_ANC_MOIS">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">7</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_FP">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">5</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_DIPL_AUC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_DIPL_BRE">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_DIPL_CAP">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_DIPL_BAC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">1</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_DIPL_BTS">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_DIPL_LIC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_DIPL_MAS">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_DIPL_DOC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                    </Groupe>
+                </Groupe>
+                <Variable idVariable="HEURE_REMPL">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle">1</Valeur>
+                </Variable>
+                <Variable idVariable="MIN_REMPL">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle">15</Valeur>
+                </Variable>
+                <Variable idVariable="COMMENT_QE">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+            </InformationsPersonnalisees>
+        </Questionnaire>
+        <Questionnaire idModele="v1">
+            <InformationsGenerales>
+                <UniteEnquetee>
+                    <Identifiant>66203432100056</Identifiant>
+                </UniteEnquetee>
+            </InformationsGenerales>
+            <InformationsPersonnalisees>
+                <Variable idVariable="COMMENT_UE">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="CESSATION">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="NOUV_SIRET">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_INTER">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle">2</Valeur>
+                </Variable>
+                <Variable idVariable="E_PART">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle">2</Valeur>
+                </Variable>
+                <Variable idVariable="E_PEE">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_ACT">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle">2</Valeur>
+                </Variable>
+                <Variable idVariable="E_RETR">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle">2</Valeur>
+                </Variable>
+                <Variable idVariable="E_ASS">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle">1</Valeur>
+                </Variable>
+                <Variable idVariable="E_BRA_GR">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_BRA_EV">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_BRA_PI">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_BRA_PC">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_BRA_ES">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_BRA_AS">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_BRA_PR">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_BRA_EG">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_GRO_GR">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_GRO_EV">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_GRO_PI">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_GRO_PC">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_GRO_ES">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_GRO_AS">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_GRO_PR">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_GRO_EG">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_ENT_GR">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_ENT_EV">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_ENT_PI">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_ENT_PC">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_ENT_ES">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_ENT_AS">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_ENT_PR">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_ENT_EG">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_ETA_GR">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_ETA_EV">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_ETA_PI">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_ETA_PC">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_ETA_ES">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_ETA_AS">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_ETA_PR">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_ETA_EG">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_AUT_GR">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_AUT_EV">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_AUT_PI">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_AUT_PC">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_AUT_ES">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_AUT_AS">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_AUT_PR">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_AUT_EG">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_ANC_GR">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle">1</Valeur>
+                </Variable>
+                <Variable idVariable="E_ANC_EV">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle">1</Valeur>
+                </Variable>
+                <Variable idVariable="E_ANC_PI">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle">1</Valeur>
+                </Variable>
+                <Variable idVariable="E_ANC_PC">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle">1</Valeur>
+                </Variable>
+                <Variable idVariable="E_ANC_ES">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle">1</Valeur>
+                </Variable>
+                <Variable idVariable="E_ANC_AS">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle">1</Valeur>
+                </Variable>
+                <Variable idVariable="E_ANC_PR">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle">1</Valeur>
+                </Variable>
+                <Variable idVariable="E_ANC_EG">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle">1</Valeur>
+                </Variable>
+                <Variable idVariable="E_C_RF">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_C_CS">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_C_PI">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_C_PC">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_C_CO">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_C_DI">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_C_RB">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_C_MT">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_C_IC">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_C_IA">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_C_RS">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_C_FP">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_C_PR">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_C_NSP">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_NC_RF">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_NC_CS">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_NC_PI">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_NC_PC">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_NC_CO">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_NC_DI">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_NC_RB">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle">1</Valeur>
+                </Variable>
+                <Variable idVariable="E_NC_MT">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_NC_IC">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_NC_IA">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_NC_RS">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_NC_FP">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_NC_PR">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_NC_NSP">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="E_ETA_DS">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle">2</Valeur>
+                </Variable>
+                <Variable idVariable="E_ENT_DS">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle">2</Valeur>
+                </Variable>
+                <Variable idVariable="E_DP">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle">2</Valeur>
+                </Variable>
+                <Variable idVariable="E_CE">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle">2</Valeur>
+                </Variable>
+                <Variable idVariable="E_CHSCT">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle">2</Valeur>
+                </Variable>
+                <Variable idVariable="E_INST">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle">2</Valeur>
+                </Variable>
+                <Groupe idGroupe="TABLEAU_SALARIES">
+                    <Groupe idGroupe="01" typeGroupe="TABLEAU_SALARIES">
+                        <Variable idVariable="SIRET_SAL">
+                            <Valeur type="ancienne">66203432100056</Valeur>
+                            <Valeur type="nouvelle">66203432100056</Valeur>
+                        </Variable>
+                        <Variable idVariable="NUM_ORDRE_SAL_TAB">
+                            <Valeur type="ancienne">01</Valeur>
+                            <Valeur type="nouvelle">01</Valeur>
+                        </Variable>
+                        <Variable idVariable="NOM_COMPLET_SAL_TAB">
+                            <Valeur type="ancienne">FABIEN DAIRE</Valeur>
+                            <Valeur type="nouvelle">FABIEN DAIRE</Valeur>
+                        </Variable>
+                        <Variable idVariable="NUM_SECU_TAB">
+                            <Valeur type="ancienne">15108</Valeur>
+                            <Valeur type="nouvelle">15108</Valeur>
+                        </Variable>
+                        <Variable idVariable="LIB_CC_PERSO_TAB">
+                            <Valeur type="ancienne">TAXIS PARISIENS SALARIES</Valeur>
+                            <Valeur type="nouvelle">TAXIS PARISIENS SALARIES</Valeur>
+                        </Variable>
+                        <Variable idVariable="COD_CC_PERSO_TAB">
+                            <Valeur type="ancienne">2219</Valeur>
+                            <Valeur type="nouvelle">2219</Valeur>
+                        </Variable>
+                    </Groupe>
+                    <Groupe idGroupe="02" typeGroupe="TABLEAU_SALARIES">
+                        <Variable idVariable="SIRET_SAL">
+                            <Valeur type="ancienne">66203432100056</Valeur>
+                            <Valeur type="nouvelle">66203432100056</Valeur>
+                        </Variable>
+                        <Variable idVariable="NUM_ORDRE_SAL_TAB">
+                            <Valeur type="ancienne">02</Valeur>
+                            <Valeur type="nouvelle">02</Valeur>
+                        </Variable>
+                        <Variable idVariable="NOM_COMPLET_SAL_TAB">
+                            <Valeur type="ancienne">AHMED HICHAM</Valeur>
+                            <Valeur type="nouvelle">AHMED HICHAM</Valeur>
+                        </Variable>
+                        <Variable idVariable="NUM_SECU_TAB">
+                            <Valeur type="ancienne">15403</Valeur>
+                            <Valeur type="nouvelle">15403</Valeur>
+                        </Variable>
+                        <Variable idVariable="LIB_CC_PERSO_TAB">
+                            <Valeur type="ancienne">TAXIS PARISIENS SALARIES</Valeur>
+                            <Valeur type="nouvelle">TAXIS PARISIENS SALARIES</Valeur>
+                        </Variable>
+                        <Variable idVariable="COD_CC_PERSO_TAB">
+                            <Valeur type="ancienne">2219</Valeur>
+                            <Valeur type="nouvelle">2219</Valeur>
+                        </Variable>
+                    </Groupe>
+                    <Groupe idGroupe="03" typeGroupe="TABLEAU_SALARIES">
+                        <Variable idVariable="SIRET_SAL">
+                            <Valeur type="ancienne">66203432100056</Valeur>
+                            <Valeur type="nouvelle">66203432100056</Valeur>
+                        </Variable>
+                        <Variable idVariable="NUM_ORDRE_SAL_TAB">
+                            <Valeur type="ancienne">03</Valeur>
+                            <Valeur type="nouvelle">03</Valeur>
+                        </Variable>
+                        <Variable idVariable="NOM_COMPLET_SAL_TAB">
+                            <Valeur type="ancienne">ARNAUD VERN</Valeur>
+                            <Valeur type="nouvelle">ARNAUD VERN</Valeur>
+                        </Variable>
+                        <Variable idVariable="NUM_SECU_TAB">
+                            <Valeur type="ancienne">16108</Valeur>
+                            <Valeur type="nouvelle">16108</Valeur>
+                        </Variable>
+                        <Variable idVariable="LIB_CC_PERSO_TAB">
+                            <Valeur type="ancienne">TAXIS PARISIENS SALARIES</Valeur>
+                            <Valeur type="nouvelle">TAXIS PARISIENS SALARIES</Valeur>
+                        </Variable>
+                        <Variable idVariable="COD_CC_PERSO_TAB">
+                            <Valeur type="ancienne">2219</Valeur>
+                            <Valeur type="nouvelle">2219</Valeur>
+                        </Variable>
+                    </Groupe>
+                </Groupe>
+                <Groupe idGroupe="BOUCLE_SALARIE">
+                    <Groupe idGroupe="01" typeGroupe="BOUCLE_SALARIE">
+                        <Variable idVariable="NUM_ORDRE_SALARIE">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">01</Valeur>
+                        </Variable>
+                        <Variable idVariable="NOM_COMPLET_SALARIE">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">FABIEN DAIRE</Valeur>
+                        </Variable>
+                        <Variable idVariable="COD_CC_PERSO">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">2219</Valeur>
+                        </Variable>
+                        <Variable idVariable="COD_CC_PERSO_TAB">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="NUM_SECU">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">15108</Valeur>
+                        </Variable>
+                        <Variable idVariable="LIB_CC_PERSO">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">TAXIS PARISIENS SALARIES</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_QUIT_ETB">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">1</Valeur>
+                        </Variable>
+                        <Variable idVariable="LIB_CC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="COD_CC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_REM">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_REM_SUP">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_TOT_PRIM">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_PR_ANC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_PR_CONT">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_PR_PIND">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_PR_PCOL">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_PR_PREC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_IND_CHO">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_IND_LIC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_IND_RET">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_IND_AUT">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_INTER">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_PART">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_PEE">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_COTIS">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_COTIS_RP">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_MODIF">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_SMIC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_GEN">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_IND">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_INDIC_FJ">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_HREM">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_HREM_SUP">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_FORFAIT">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_JDEB">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_JFIN">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_TP">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_QUOT">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_HSEM">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_JSEM">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_DUR_CONT">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_CONGES">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_FERIES">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_ARRETS">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_MATER">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_ATMP">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_AUTR">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_ARRETS_U">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_MATER_U">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_ATMP_U">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_AUTR_U">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_CET_PRIS">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_CET_VERS">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_JLEG">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_TYP_CONT">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_SUPERV">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_QUALIF">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_ANC_AN">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_ANC_MOIS">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_FP">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_DIPL_AUC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_DIPL_BRE">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_DIPL_CAP">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_DIPL_BAC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_DIPL_BTS">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_DIPL_LIC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_DIPL_MAS">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_DIPL_DOC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                    </Groupe>
+                    <Groupe idGroupe="02" typeGroupe="BOUCLE_SALARIE">
+                        <Variable idVariable="NUM_ORDRE_SALARIE">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">02</Valeur>
+                        </Variable>
+                        <Variable idVariable="NOM_COMPLET_SALARIE">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">AHMED HICHAM</Valeur>
+                        </Variable>
+                        <Variable idVariable="COD_CC_PERSO">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">2219</Valeur>
+                        </Variable>
+                        <Variable idVariable="COD_CC_PERSO_TAB">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="NUM_SECU">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">15403</Valeur>
+                        </Variable>
+                        <Variable idVariable="LIB_CC_PERSO">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">TAXIS PARISIENS SALARIES</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_QUIT_ETB">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="LIB_CC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="COD_CC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_REM">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">0</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_REM_SUP">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_TOT_PRIM">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">0</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_PR_ANC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_PR_CONT">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_PR_PIND">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_PR_PCOL">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_PR_PREC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_IND_CHO">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_IND_LIC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_IND_RET">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_IND_AUT">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_INTER">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_PART">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_PEE">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_COTIS">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_COTIS_RP">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_MODIF">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">3</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_SMIC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_GEN">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_IND">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_INDIC_FJ">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">2</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_HREM">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_HREM_SUP">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_FORFAIT">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_JDEB">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_JFIN">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_TP">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">1</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_QUOT">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_HSEM">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_JSEM">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">6</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_DUR_CONT">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">1838</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_CONGES">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">0</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_FERIES">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">0</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_ARRETS">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">365</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_MATER">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">0</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_ATMP">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">0</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_AUTR">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">0</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_ARRETS_U">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">2</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_MATER_U">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_ATMP_U">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_AUTR_U">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_CET_PRIS">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_CET_VERS">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_JLEG">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_TYP_CONT">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">1</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_SUPERV">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">3</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_QUALIF">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">11</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_ANC_AN">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">7</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_ANC_MOIS">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_FP">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">9</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_DIPL_AUC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">1</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_DIPL_BRE">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_DIPL_CAP">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_DIPL_BAC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_DIPL_BTS">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_DIPL_LIC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_DIPL_MAS">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_DIPL_DOC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                    </Groupe>
+                    <Groupe idGroupe="03" typeGroupe="BOUCLE_SALARIE">
+                        <Variable idVariable="NUM_ORDRE_SALARIE">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">03</Valeur>
+                        </Variable>
+                        <Variable idVariable="NOM_COMPLET_SALARIE">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">ARNAUD VERN</Valeur>
+                        </Variable>
+                        <Variable idVariable="COD_CC_PERSO">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">2219</Valeur>
+                        </Variable>
+                        <Variable idVariable="COD_CC_PERSO_TAB">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="NUM_SECU">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">16108</Valeur>
+                        </Variable>
+                        <Variable idVariable="LIB_CC_PERSO">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">TAXIS PARISIENS SALARIES</Valeur>
+                        </Variable>
+                        <Variable idVariable="S_QUIT_ETB">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle">1</Valeur>
+                        </Variable>
+                        <Variable idVariable="LIB_CC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="COD_CC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_REM">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_REM_SUP">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_TOT_PRIM">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_PR_ANC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_PR_CONT">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_PR_PIND">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_PR_PCOL">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_PR_PREC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_IND_CHO">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_IND_LIC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_IND_RET">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_IND_AUT">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_INTER">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_PART">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_PEE">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_COTIS">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_COTIS_RP">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_MODIF">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_SMIC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_GEN">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_IND">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_INDIC_FJ">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_HREM">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_HREM_SUP">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_FORFAIT">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_JDEB">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_JFIN">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_TP">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_QUOT">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_HSEM">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_JSEM">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_DUR_CONT">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_CONGES">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_FERIES">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_ARRETS">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_MATER">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_ATMP">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_AUTR">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_ARRETS_U">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_MATER_U">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_ATMP_U">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_AUTR_U">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_CET_PRIS">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_CET_VERS">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_JLEG">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_TYP_CONT">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_SUPERV">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_QUALIF">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_ANC_AN">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_ANC_MOIS">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_FP">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_DIPL_AUC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_DIPL_BRE">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_DIPL_CAP">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_DIPL_BAC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_DIPL_BTS">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_DIPL_LIC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_DIPL_MAS">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                        <Variable idVariable="S_DIPL_DOC">
+                            <Valeur type="ancienne"/>
+                            <Valeur type="nouvelle"/>
+                        </Variable>
+                    </Groupe>
+                </Groupe>
+                <Variable idVariable="HEURE_REMPL">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="MIN_REMPL">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+                <Variable idVariable="COMMENT_QE">
+                    <Valeur type="ancienne"/>
+                    <Valeur type="nouvelle"/>
+                </Variable>
+            </InformationsPersonnalisees>
+        </Questionnaire>
+    </Questionnaires>
+</Campagne>
